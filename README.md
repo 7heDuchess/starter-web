@@ -22,3 +22,6 @@ Do the good stuff.
 ## I guess this is another section for rebase stuff.
 
 \#Rebase
+
+## More changes 
+An emergency commit after stashing w/ untracked file.
