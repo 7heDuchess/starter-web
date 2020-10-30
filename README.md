@@ -8,6 +8,11 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+
+## How to contribute
+
+Do the good stuff.
+
 ## Copyright
 
 2020... Stuff?
