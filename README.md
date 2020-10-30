@@ -15,7 +15,7 @@ Do the good stuff.
 
 ## Copyright
 
-2020... Stuff?
+2020... Stuff? All rights reserved.
 
 # Changes in Master. + Changes from my-feature.
 
